@@ -1,0 +1,65 @@
+{
+    "configurations": [
+        {
+            "name": "!!! WARNING !!! AUTO-GENERATED FILE, PLEASE DO NOT MODIFY IT AND USE https://docs.platformio.org/page/projectconf/section_env_build.html#build-flags"
+        },
+        {
+            "name": "Win32",
+            "includePath": [
+                "c:/Users/NoRegret/Desktop/SKR14T/Marlin",
+                "c:/Users/NoRegret/Desktop/SKR14T/.pio/libdeps/LPC1769/SailfishLCD",
+                "c:/Users/NoRegret/Desktop/SKR14T/.pio/libdeps/LPC1769/Adafruit NeoPixel",
+                "c:/Users/NoRegret/Desktop/SKR14T/.pio/libdeps/LPC1769/TMCStepper_ID5513/src",
+                "c:/Users/NoRegret/Desktop/SKR14T/.pio/libdeps/LPC1769/U8glib-HAL_ID1932/src",
+                "C:/Users/NoRegret/.platformio/packages/framework-arduino-lpc176x/libraries/LiquidCrystal/src",
+                "C:/Users/NoRegret/.platformio/packages/framework-arduino-lpc176x/libraries/Servo/src",
+                "c:/Users/NoRegret/Desktop/SKR14T/Marlin/src/HAL/HAL_LPC1768/include",
+                "c:/Users/NoRegret/Desktop/SKR14T/Marlin/src/HAL/HAL_LPC1768/u8g",
+                "C:/Users/NoRegret/.platformio/packages/framework-arduino-lpc176x/cores/arduino",
+                "C:/Users/NoRegret/.platformio/packages/framework-arduino-lpc176x/system/CMSIS/include",
+                "C:/Users/NoRegret/.platformio/packages/framework-arduino-lpc176x/system/CMSIS/lib",
+                "C:/Users/NoRegret/.platformio/packages/framework-arduino-lpc176x/system/lpc176x",
+                "C:/Users/NoRegret/.platformio/packages/tool-unity",
+                ""
+            ],
+            "browse": {
+                "limitSymbolsToIncludedHeaders": true,
+                "path": [
+                    "c:/Users/NoRegret/Desktop/SKR14T/Marlin",
+                    "c:/Users/NoRegret/Desktop/SKR14T/.pio/libdeps/LPC1769/SailfishLCD",
+                    "c:/Users/NoRegret/Desktop/SKR14T/.pio/libdeps/LPC1769/Adafruit NeoPixel",
+                    "c:/Users/NoRegret/Desktop/SKR14T/.pio/libdeps/LPC1769/TMCStepper_ID5513/src",
+                    "c:/Users/NoRegret/Desktop/SKR14T/.pio/libdeps/LPC1769/U8glib-HAL_ID1932/src",
+                    "C:/Users/NoRegret/.platformio/packages/framework-arduino-lpc176x/libraries/LiquidCrystal/src",
+                    "C:/Users/NoRegret/.platformio/packages/framework-arduino-lpc176x/libraries/Servo/src",
+                    "c:/Users/NoRegret/Desktop/SKR14T/Marlin/src/HAL/HAL_LPC1768/include",
+                    "c:/Users/NoRegret/Desktop/SKR14T/Marlin/src/HAL/HAL_LPC1768/u8g",
+                    "C:/Users/NoRegret/.platformio/packages/framework-arduino-lpc176x/cores/arduino",
+                    "C:/Users/NoRegret/.platformio/packages/framework-arduino-lpc176x/system/CMSIS/include",
+                    "C:/Users/NoRegret/.platformio/packages/framework-arduino-lpc176x/system/CMSIS/lib",
+                    "C:/Users/NoRegret/.platformio/packages/framework-arduino-lpc176x/system/lpc176x",
+                    "C:/Users/NoRegret/.platformio/packages/tool-unity",
+                    ""
+                ]
+            },
+            "defines": [
+                "LPC176X_FRAMEWORK",
+                "TARGET_LPC1768",
+                "F_CPU=120000000L",
+                "MCU_LPC1769",
+                "PIO_PLATFORM_VERSION=1001UL",
+                "PIO_FRAMEWORK_VERSION=2002UL",
+                "PLATFORMIO=40100",
+                "U8G_HAL_LINKS",
+                "__MARLIN_FIRMWARE__",
+                "ARDUINO_ARCH_LPC176X",
+                "ARDUINOLPC=10805",
+                ""
+            ],
+            "intelliSenseMode": "clang-x64",
+            "cppStandard": "c++17",
+            "compilerPath": "\"C:/Users/NoRegret/.platformio/packages/toolchain-gccarmnoneeabi/bin/arm-none-eabi-gcc.exe\" -mthumb -mcpu=cortex-m3"
+        }
+    ],
+    "version": 4
+}
